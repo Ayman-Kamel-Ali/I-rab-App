@@ -1,0 +1,5 @@
+{
+  "name": "I'rab - Arabic Grammar Analyzer",
+  "description": "An advanced tool for analyzing Arabic sentences, providing detailed word-by-word grammatical case (I'rab) and inflection analysis using AI.",
+  "requestFramePermissions": []
+}
